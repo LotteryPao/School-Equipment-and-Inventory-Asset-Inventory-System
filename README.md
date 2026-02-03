@@ -1,1 +1,1 @@
-# School-Equipment-and-Inventory-Asset-Inventory-System
+# School Equipment and Inventory Asset Inventory System
